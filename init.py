@@ -1,5 +1,5 @@
 def saludo():
-    print("¡Hola, este es un código de prueba!")
+    print("¡Hola, chipi !")
 
 
 if __name__ == "__main__":
